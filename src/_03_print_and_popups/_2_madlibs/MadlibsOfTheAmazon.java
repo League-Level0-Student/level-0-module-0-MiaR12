@@ -36,7 +36,7 @@ String input5 = JOptionPane.showInputDialog("Enter a place");
 				" during the day, so cross the river at night. Piranhas are attracted to fresh "+ input2 +
 				" and will most likely take a bite out of your "+input3 + " if you "+input4 +
 				"  Whatever you do, if you have an open wound, try to find another way to get back to the "
-				+ "" + input5 + "Good luck.");
+				+ "4" + input5 + "Good luck.");
 		
 		// If you want to write your own Madlib story, just change the story variable and ask the player different questions.
 		
