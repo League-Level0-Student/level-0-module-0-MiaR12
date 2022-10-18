@@ -56,6 +56,12 @@ fill(176, 12, 12);
 //    Use the x and y variables you just created to place the ellipse in the correct location.
 //                  The ellipse command looks like this:
                 ellipse(x, y, 20, 10);
+                ellipse(x-110, y+10, 20, 10);
+                if(x < 0){
+x=427;
+y=144;
+background(cat);
+}
 // Run the program to make sure it is in the right place and is the right size.
 }
 
